@@ -1,0 +1,76 @@
+*{
+    padding: 0%;
+    margin:0% ;
+}
+img{
+    max-width: 100%;
+}
+.head{
+    background-color: blue;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 19px;
+    font-size: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#banner img{
+    width: 100%;
+}
+#banner{
+    margin-bottom: 89px;
+}
+
+.apple{
+    display: inline-block;
+}
+.avocado{
+    display: inline-block;
+}
+.orange{
+    display: inline-block;
+}
+
+.three-images{
+    display: flex;
+    justify-content: center;
+    margin-top: 89px;
+    margin:0 auto;
+}
+.apple{
+    margin-right: 14px;
+}
+.orange{
+    margin-left: 14px;
+}
+.more{
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+.twoimages{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 110px;
+}
+.banana{
+    margin-left: 70px;
+}
+.mango{
+    margin-left: 60px;
+}
+
+.fff{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 25px;
+}
